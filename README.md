@@ -1,6 +1,6 @@
 # ⚠️ This repository is no longer maintained
 
 
-# flutter_firbase
+# flutter_firebase
 
 A firebase wrapper
